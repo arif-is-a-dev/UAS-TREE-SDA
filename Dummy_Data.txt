@@ -1,0 +1,62 @@
+players = {
+    "Wojciech Szczesny": {
+        "GoalKeeping": "ya",  "Defending": "tidak", "Endurance": "tidak",
+        "Dribbling": "tidak", "Crossing":  "tidak", "Avg":       "tidak",
+        "Passing":    "tidak","Shooting":  "tidak"
+    },
+    "Inigo Martinez": {
+        "GoalKeeping": "tidak","Defending": "ya",   "Endurance": "tidak",
+        "Dribbling":  "tidak","Crossing":  "tidak","Avg":       "tidak",
+        "Passing":    "tidak","Shooting":  "tidak"
+    },
+    "Pau Cubarsi": {
+        "GoalKeeping": "tidak","Defending": "ya",   "Endurance": "tidak",
+        "Dribbling":  "tidak","Crossing":  "tidak","Avg":       "tidak",
+        "Passing":    "tidak","Shooting":  "tidak"
+    },
+    "Alejandro Balde": {
+        "GoalKeeping": "tidak","Defending": "ya",   "Endurance": "ya",
+        "Dribbling":  "ya",  "Crossing":  "ya",   "Avg":       "tidak",
+        "Passing":    "tidak","Shooting":  "tidak"
+    },
+    "Jules Kounde": {
+        "GoalKeeping": "tidak","Defending": "ya",   "Endurance": "ya",
+        "Dribbling":  "tidak","Crossing":  "ya",   "Avg":       "tidak",
+        "Passing":    "tidak","Shooting":  "tidak"
+    },
+    "Pedri Gonzalez": {
+        "GoalKeeping": "tidak","Defending": "tidak","Endurance": "ya",
+        "Dribbling":  "tidak","Crossing":  "tidak","Avg":       "ya",
+        "Passing":    "ya",  "Shooting":  "tidak"
+    },
+    "Frenkie de Jong": {
+        "GoalKeeping": "tidak","Defending": "ya",   "Endurance": "ya",
+        "Dribbling":  "tidak","Crossing":  "tidak","Avg":       "ya",
+        "Passing":    "ya",  "Shooting":  "tidak"
+    },
+    "Dani Olmo": {
+        "GoalKeeping": "tidak","Defending": "tidak","Endurance": "ya",
+        "Dribbling":  "tidak","Crossing":  "tidak","Avg":       "ya",
+        "Passing":    "ya",  "Shooting":  "ya"
+    },
+    "Lamine Yamal": {
+        "GoalKeeping": "tidak","Defending": "tidak","Endurance": "ya",
+        "Dribbling":  "ya",  "Crossing":  "ya",   "Avg":       "tidak",
+        "Passing":    "tidak","Shooting":  "ya"
+    },
+    "Raphinha": {
+        "GoalKeeping": "tidak","Defending": "tidak","Endurance": "ya",
+        "Dribbling":  "ya",  "Crossing":  "ya",   "Avg":       "tidak",
+        "Passing":    "tidak","Shooting":  "ya"
+    },
+    "Robert Lewandowski": {
+        "GoalKeeping": "tidak","Defending": "tidak","Endurance": "ya",
+        "Dribbling":  "tidak","Crossing":  "tidak","Avg":       "ya",
+        "Passing":    "tidak","Shooting":  "ya"
+    },
+    "Ivan Cahya Aryasuta": {
+        "GoalKeeping": "tidak","Defending": "tidak","Endurance": "tidak",
+        "Dribbling":  "tidak","Crossing":  "tidak","Avg":       "tidak",
+        "Passing":    "tidak","Shooting":  "tidak"
+    }
+}
